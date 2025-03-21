@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6d3cd7-2065-4508-99d5-3452c55eb8f1" name="Changes" comment="" />
+    <list default="true" id="ca6d3cd7-2065-4508-99d5-3452c55eb8f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MIPT course/[seminar]creating_module.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MIPT course/[seminar]creating_module.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/simple.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
