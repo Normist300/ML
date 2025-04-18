@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca6d3cd7-2065-4508-99d5-3452c55eb8f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MIPT course/[seminar]conv_net_optimization_ipynb_.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIPT course/[seminar]transfer_learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MIPT course/Классификация Симпсонов/simpsons_baseline.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ML.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIPT course/MNIST/Классификация Симпсонов/simpsons_baseline.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Precaution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Precaution.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
